@@ -1,0 +1,30 @@
+git init
+git config --global user.name "jagadish"
+git config --global user.email "mmjvarma@gmail"
+ls
+git status
+clear
+============================
+touch file name
+ls
+git status
+git add file name
+git status
+git commit -m "label" file name
+git status
+git log
+git show cid
+============
+git clone cid
+ls
+cd iron-man
+ls
+touch commands
+git status
+git add .
+git status
+git commit -m "commands" commands
+git status
+git log 
+git show cid
+git push
